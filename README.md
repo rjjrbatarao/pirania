@@ -53,3 +53,7 @@ files/
 
 luasrc/ contains the luci-app to manage vouchers
 ```
+## Other docs
+```
+https://github.com/libremesh/lime-packages/tree/master/packages/pirania
+```
